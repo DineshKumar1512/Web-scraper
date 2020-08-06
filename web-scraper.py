@@ -15,9 +15,4 @@ for x in items:
     print(name.text.strip())
     print(description.text.strip())
     print(price.text.strip())
-    
-
     print()
-    
-                              
-
